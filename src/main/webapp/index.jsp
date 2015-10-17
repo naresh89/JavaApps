@@ -8,7 +8,7 @@
 	
 	<button id="build" type="button">Post build updates to Hipchat</button>
 	
-	<button id="service" type="button">Post service subscription to Hipchat</button>
+	<button id="service" type="button">Post service subscription to Hipchat ::</button>
 	
 	<button id="jenkinsAuthTest" type="button">Jenkins Auth Test</button>
 	<br>

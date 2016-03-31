@@ -13,7 +13,7 @@
 	<button id="jenkinsAuthTest" type="button">Jenkins Auth Test</button>
 	<br>
 	<br>
-	<div><label>Hipchat post notification status: </label><label id="divmsg" style="display:none"></label></div>
+	<div><label>Hipchat post notification statuss: </label><label id="divmsg" style="display:none"></label></div>
 
 <script type="text/javascript">
   
